@@ -1,6 +1,8 @@
-<html>
+<!DOCTYPE php>
+<html lang="en">
     <head>
         <meta charset="UTF-8">
+        <meta name="description" content="A webpage to control and monitor the rotation of clan members in 5v5 Clan Wars in Clash of Clans for the clan Decimal8.">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">    
         <title>Decimal8 Clan Wars Rotation</title>
@@ -76,7 +78,7 @@
 
     <?php
         // Clash of Clans usernames
-        $users = array("predator");
+        $users = array("Sir Marabald", "Predator98", "Can", "King of Dams", "Abs3nt3", "Sir Marabuld");
     ?>
 
 </html>
